@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://lia879.github.io/Geography-Trivia-Game-/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body background="./Trivia_files/background.jpg">
+
+	<title>Geography Trivia Game</title>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="./Trivia_files/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="./Trivia_files/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <link href="./Trivia_files/css" rel="stylesheet">
+
+	<!-- My CSS -->
+	<link rel="stylesheet" type="text/css" href="./Trivia_files/style.css">
+
+	<!-- jQuery -->
+    <script type="text/javascript" src="./Trivia_files/jquery-2.2.0.js.download"></script>
+    <!-- Script -->
+	<script src="./Trivia_files/jquery.backstretch.min.js.download"></script>
+
+
+
+	
+	<div class="container">
+
+	<h1 id="topText">Geography Trivia Game</h1>
+
+	<div class="jumbotron text-center" id="gameScreen">
+		<h1 id="start">START</h1>
+	</div>
+
+	<h2 id="bottomText" class="text-right">Let's Go!</h2>
+
+    </div>
+    
+    <script type="text/javascript" src="./Trivia_files/trivia.js.download"></script>
+
+</body></html>
